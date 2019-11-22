@@ -1,0 +1,162 @@
+10/13/2019 13:14:44 PM  |  Feed Money:  5.0  -  Current Money Inserted:  5.0
+10/13/2019 13:14:44 PM  |  Item Name:  Potato Crisps  -  Item Location: A1
+Previous Balance: $5.00  -  Current Balance: $1.95
+10/13/2019 13:14:44 PM  |  Amount Of Change Returned: $1.95
+10/13/2019 13:14:44 PM  |  Balance After Change Returned: $0.00
+10/13/2019 13:14:44 PM  |  Feed Money:  10.0  -  Current Money Inserted:  10.0
+10/13/2019 13:14:44 PM  |  Item Name:  Cowtales  -  Item Location: B2
+Previous Balance: $10.00  -  Current Balance: $8.50
+10/13/2019 13:14:44 PM  |  Item Name:  Crunchie  -  Item Location: B4
+Previous Balance: $8.50  -  Current Balance: $6.75
+10/13/2019 13:14:44 PM  |  Amount Of Change Returned: $6.75
+10/13/2019 13:14:44 PM  |  Balance After Change Returned: $0.00
+10/13/2019 13:14:44 PM  |  Feed Money:  20.0  -  Current Money Inserted:  20.0
+10/13/2019 13:14:44 PM  |  Item Name:  Chiclets  -  Item Location: D3
+Previous Balance: $20.00  -  Current Balance: $19.25
+10/13/2019 13:14:44 PM  |  Amount Of Change Returned: $19.25
+10/13/2019 13:14:44 PM  |  Balance After Change Returned: $0.00
+10/13/2019 13:21:52 PM  |  Feed Money:  5.0  -  Current Money Inserted:  5.0
+10/13/2019 13:21:52 PM  |  Item Name:  Potato Crisps  -  Item Location: A1
+Previous Balance: $5.00  -  Current Balance: $1.95
+10/13/2019 13:21:52 PM  |  Amount Of Change Returned: $1.95
+10/13/2019 13:21:52 PM  |  Balance After Change Returned: $0.00
+10/13/2019 13:22:44 PM  |  Feed Money:  5.0  -  Current Money Inserted:  5.0
+10/13/2019 13:22:44 PM  |  Item Name:  Potato Crisps  -  Item Location: A1
+Previous Balance: $5.00  -  Current Balance: $1.95
+10/13/2019 13:22:44 PM  |  Amount Of Change Returned: $1.95
+10/13/2019 13:22:44 PM  |  Balance After Change Returned: $0.00
+10/13/2019 13:25:35 PM  |  Feed Money:  5.0  -  Current Money Inserted:  5.0
+10/13/2019 13:25:35 PM  |  Item Name:  Potato Crisps  -  Item Location: A1
+Previous Balance: $5.00  -  Current Balance: $1.95
+10/13/2019 13:25:35 PM  |  Amount Of Change Returned: $1.95
+10/13/2019 13:25:35 PM  |  Balance After Change Returned: $0.00
+10/13/2019 13:26:08 PM  |  Feed Money:  5.0  -  Current Money Inserted:  5.0
+10/13/2019 13:26:08 PM  |  Item Name:  Potato Crisps  -  Item Location: A1
+Previous Balance: $5.00  -  Current Balance: $1.95
+10/13/2019 13:26:08 PM  |  Amount Of Change Returned: $1.95
+10/13/2019 13:26:08 PM  |  Balance After Change Returned: $0.00
+10/13/2019 13:26:48 PM  |  Feed Money:  5.0  -  Current Money Inserted:  5.0
+10/13/2019 13:26:48 PM  |  Item Name:  Potato Crisps  -  Item Location: A1
+Previous Balance: $5.00  -  Current Balance: $1.95
+10/13/2019 13:26:48 PM  |  Amount Of Change Returned: $1.95
+10/13/2019 13:26:48 PM  |  Balance After Change Returned: $0.00
+10/13/2019 13:30:22 PM  |  Feed Money:  5.0  -  Current Money Inserted:  5.0
+10/13/2019 13:30:22 PM  |  Item Name:  Potato Crisps  -  Item Location: A1
+Previous Balance: $5.00  -  Current Balance: $1.95
+10/13/2019 13:30:22 PM  |  Amount Of Change Returned: $1.95
+10/13/2019 13:30:22 PM  |  Balance After Change Returned: $0.00
+10/13/2019 13:31:12 PM  |  Feed Money:  5.0  -  Current Money Inserted:  5.0
+10/13/2019 13:31:12 PM  |  Item Name:  Potato Crisps  -  Item Location: A1
+Previous Balance: $5.00  -  Current Balance: $1.95
+10/13/2019 13:31:12 PM  |  Amount Of Change Returned: $1.95
+10/13/2019 13:31:12 PM  |  Balance After Change Returned: $0.00
+10/13/2019 13:31:28 PM  |  Feed Money:  5.0  -  Current Money Inserted:  5.0
+10/13/2019 13:31:28 PM  |  Item Name:  Potato Crisps  -  Item Location: A1
+Previous Balance: $5.00  -  Current Balance: $1.95
+10/13/2019 13:31:28 PM  |  Amount Of Change Returned: $1.95
+10/13/2019 13:31:28 PM  |  Balance After Change Returned: $0.00
+10/13/2019 14:15:24 PM  |  Feed Money:  5.0  -  Current Money Inserted:  5.0
+10/13/2019 14:15:24 PM  |  Item Name:  Potato Crisps  -  Item Location: A1
+Previous Balance: $5.00  -  Current Balance: $1.95
+10/13/2019 14:15:24 PM  |  Amount Of Change Returned: $1.95
+10/13/2019 14:15:24 PM  |  Balance After Change Returned: $0.00
+10/13/2019 14:16:39 PM  |  Feed Money:  10.0  -  Current Money Inserted:  10.0
+10/13/2019 14:16:39 PM  |  Item Name:  U-Chews  -  Item Location: D1
+Previous Balance: $10.00  -  Current Balance: $9.15
+10/13/2019 14:16:39 PM  |  Amount Of Change Returned: $9.15
+10/13/2019 14:16:39 PM  |  Balance After Change Returned: $0.00
+10/13/2019 14:17:57 PM  |  Feed Money:  5.0  -  Current Money Inserted:  5.0
+10/13/2019 14:17:57 PM  |  Item Name:  Potato Crisps  -  Item Location: A1
+Previous Balance: $5.00  -  Current Balance: $1.95
+10/13/2019 14:17:57 PM  |  Amount Of Change Returned: $1.95
+10/13/2019 14:17:57 PM  |  Balance After Change Returned: $0.00
+10/13/2019 14:18:45 PM  |  Feed Money:  5.0  -  Current Money Inserted:  5.0
+10/13/2019 14:18:45 PM  |  Item Name:  U-Chews  -  Item Location: D1
+Previous Balance: $5.00  -  Current Balance: $4.15
+10/13/2019 14:18:45 PM  |  Amount Of Change Returned: $4.15
+10/13/2019 14:18:45 PM  |  Balance After Change Returned: $0.00
+10/13/2019 14:22:05 PM  |  Feed Money:  10.0  -  Current Money Inserted:  10.0
+10/13/2019 14:22:05 PM  |  Item Name:  Potato Crisps  -  Item Location: A1
+Previous Balance: $10.00  -  Current Balance: $6.95
+10/13/2019 14:22:05 PM  |  Amount Of Change Returned: $6.95
+10/13/2019 14:22:05 PM  |  Balance After Change Returned: $0.00
+10/13/2019 16:09:57 PM  |  Feed Money:  10.0  -  Current Money Inserted:  10.0
+10/13/2019 16:09:57 PM  |  Item Name:  U-Chews  -  Item Location: D1
+Previous Balance: $10.00  -  Current Balance: $9.15
+10/13/2019 16:09:57 PM  |  Feed Money:  10.0  -  Current Money Inserted:  19.15
+10/13/2019 16:09:57 PM  |  Item Name:  Potato Crisps  -  Item Location: A1
+Previous Balance: $19.15  -  Current Balance: $16.10
+10/13/2019 16:09:57 PM  |  Amount Of Change Returned: $16.10
+10/13/2019 16:09:57 PM  |  Balance After Change Returned: $0.00
+10/13/2019 16:13:23 PM  |  Feed Money:  10.0  -  Current Money Inserted:  10.0
+10/13/2019 16:13:23 PM  |  Item Name:  Heavy  -  Item Location: C4
+Previous Balance: $10.0  -  Current Balance: $8.5
+10/13/2019 16:13:23 PM  |  Amount Of Change Returned: $8.5
+10/13/2019 16:13:23 PM  |  Balance After Change Returned: $0.0
+10/13/2019 16:29:09 PM  |  Feed Money:  5.0  -  Current Money Inserted:  5.0
+10/13/2019 16:29:09 PM  |  Item Name:  Cowtales  -  Item Location: B2
+Previous Balance: $5.0  -  Current Balance: $3.5
+10/13/2019 16:29:09 PM  |  Amount Of Change Returned: $3.5
+10/13/2019 16:29:09 PM  |  Balance After Change Returned: $0.0
+10/13/2019 16:57:25 PM  |  Feed Money:  10.0  -  Current Money Inserted:  10.0
+10/13/2019 16:57:25 PM  |  Item Name:  Mountain Melter  -  Item Location: C3
+Previous Balance: $10.0  -  Current Balance: $8.5
+10/13/2019 16:57:25 PM  |  Amount Of Change Returned: $8.5
+10/13/2019 16:57:25 PM  |  Balance After Change Returned: $0.0
+10/13/2019 20:03:04 PM  |  Feed Money:  5.0  -  Current Money Inserted:  5.0
+10/13/2019 20:03:04 PM  |  Item Name:  Triplemint  -  Item Location: D4
+Previous Balance: $5.00  -  Current Balance: $4.25
+10/13/2019 20:03:04 PM  |  Amount Of Change Returned: $4.25
+10/13/2019 20:03:04 PM  |  Balance After Change Returned: $0.00
+10/13/2019 20:03:04 PM  |  Feed Money:  5.0  -  Current Money Inserted:  5.0
+10/13/2019 20:03:04 PM  |  Item Name:  Triplemint  -  Item Location: D4
+Previous Balance: $5.00  -  Current Balance: $4.25
+10/13/2019 20:03:04 PM  |  Amount Of Change Returned: $4.25
+10/13/2019 20:03:04 PM  |  Balance After Change Returned: $0.00
+10/13/2019 20:03:04 PM  |  Feed Money:  5.0  -  Current Money Inserted:  5.00
+10/13/2019 20:03:04 PM  |  Item Name:  Stackers  -  Item Location: A2
+Previous Balance: $5.00  -  Current Balance: $3.55
+10/13/2019 20:03:04 PM  |  Amount Of Change Returned: $3.55
+10/13/2019 20:03:04 PM  |  Balance After Change Returned: $0.00
+10/13/2019 20:07:28 PM  |  Feed Money:  1.0  -  Current Money Inserted:  1.0
+10/13/2019 20:07:28 PM  |  Feed Money:  1.0  -  Current Money Inserted:  2.0
+10/13/2019 20:07:28 PM  |  Item Name:  Cola  -  Item Location: C1
+Previous Balance: $2.00  -  Current Balance: $0.75
+10/13/2019 20:07:28 PM  |  Amount Of Change Returned: $0.75
+10/13/2019 20:07:28 PM  |  Balance After Change Returned: $0.00
+10/13/2019 20:07:28 PM  |  Feed Money:  1.0  -  Current Money Inserted:  1.0
+10/13/2019 20:07:28 PM  |  Feed Money:  1.0  -  Current Money Inserted:  2.0
+10/13/2019 20:07:28 PM  |  Item Name:  Cola  -  Item Location: C1
+Previous Balance: $2.00  -  Current Balance: $0.75
+10/13/2019 20:07:28 PM  |  Amount Of Change Returned: $0.75
+10/13/2019 20:07:28 PM  |  Balance After Change Returned: $0.00
+10/13/2019 20:07:28 PM  |  Feed Money:  20.0  -  Current Money Inserted:  20.00
+10/13/2019 20:07:28 PM  |  Item Name:  U-Chews  -  Item Location: D1
+Previous Balance: $20.00  -  Current Balance: $19.15
+10/13/2019 20:07:28 PM  |  Amount Of Change Returned: $19.15
+10/13/2019 20:07:28 PM  |  Balance After Change Returned: $0.00
+10/13/2019 20:10:14 PM  |  Feed Money:  5.0  -  Current Money Inserted:  5.0
+10/13/2019 20:10:14 PM  |  Item Name:  U-Chews  -  Item Location: D1
+Previous Balance: $5.00  -  Current Balance: $4.15
+10/13/2019 20:10:14 PM  |  Amount Of Change Returned: $4.15
+10/13/2019 20:10:14 PM  |  Balance After Change Returned: $0.00
+10/13/2019 23:07:11 PM  |  Feed Money:  10.0  -  Current Money Inserted:  10.0
+10/13/2019 23:07:11 PM  |  Feed Money:  5.0  -  Current Money Inserted:  15.0
+10/13/2019 23:07:11 PM  |  Item Name:  Dr. Salt  -  Item Location: C2
+Previous Balance: $15.0  -  Current Balance: $13.5
+10/13/2019 23:07:11 PM  |  Item Name:  Cloud Popcorn  -  Item Location: A4
+Previous Balance: $13.50  -  Current Balance: $9.85
+10/13/2019 23:07:11 PM  |  Amount Of Change Returned: $9.85
+10/13/2019 23:07:11 PM  |  Balance After Change Returned: $0.00
+10/19/2019 13:21:48 PM  |  Feed Money:  10.0  -  Current Money Inserted:  10.0
+10/19/2019 13:21:48 PM  |  Item Name:  Dr. Salt  -  Item Location: C2
+Previous Balance: $10.0  -  Current Balance: $8.5
+10/19/2019 13:21:48 PM  |  Feed Money:  1.0  -  Current Money Inserted:  9.5
+10/19/2019 13:21:48 PM  |  Item Name:  Cowtales  -  Item Location: B2
+Previous Balance: $9.5  -  Current Balance: $8.0
+10/19/2019 13:21:48 PM  |  Item Name:  Cowtales  -  Item Location: B2
+Previous Balance: $8.0  -  Current Balance: $6.5
+10/19/2019 13:21:48 PM  |  Item Name:  Wonka Bar  -  Item Location: B3
+Previous Balance: $6.5  -  Current Balance: $5.0
+10/19/2019 13:21:48 PM  |  Amount Of Change Returned: $5.0
+10/19/2019 13:21:48 PM  |  Balance After Change Returned: $0.0
